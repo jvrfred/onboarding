@@ -1,0 +1,27 @@
+curl https://activity-atk.herokuapp.com/list
+
+
+StatusCode        : 200
+StatusDescription : OK
+Content           :       {
+                              "activity" :
+                              [
+                                  {
+                                      "id" : "1ie3fsvd4mv"
+                                      ,"companyId" : "w2e3r4t5"
+                                      ,"accountId" : "3e4r5t6y"
+                                ...
+RawContent        : HTTP/1.1 200 OK
+                    Connection: keep-alive
+                    Access-Control-Allow-Origin: *
+                    Content-Length: 6705
+                    Content-Type: application/json; charset=utf-8
+                    Date: Wed, 08 Dec 2021 04:55:25 GMT
+                    ETag: W/"1a31-cdh/aAx...
+Forms             : {}
+Headers           : {[Connection, keep-alive], [Access-Control-Allow-Origin, *], [Content-Length, 6705], [Content-Type, application/json; charset=utf-8]...}
+Images            : {}
+InputFields       : {}
+Links             : {}
+ParsedHtml        : mshtml.HTMLDocumentClass
+RawContentLength  : 6705

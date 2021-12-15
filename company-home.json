@@ -1,0 +1,12 @@
+StatusCode        : 200
+StatusDescription : OK
+Content           : {32, 32, 32, 32...}
+RawContent        : HTTP/1.1 200 OK
+                    Connection: keep-alive
+                    Access-Control-Allow-Origin: *
+                    Content-Length: 2960
+                    Content-Type: application/forms+json; charset=utf-8
+                    Date: Wed, 08 Dec 2021 04:34:38 GMT
+                    ETag: W/"b90-1f...
+Headers           : {[Connection, keep-alive], [Access-Control-Allow-Origin, *], [Content-Length, 2960], [Content-Type, application/forms+json; charset=utf-8]...}   
+RawContentLength  : 2960

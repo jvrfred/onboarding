@@ -1,0 +1,15 @@
+curl https://account-atk.herokuapp.com/list
+
+
+StatusCode        : 200
+StatusDescription : OK
+Content           : {32, 32, 32, 32...}
+RawContent        : HTTP/1.1 200 OK
+                    Connection: keep-alive
+                    Access-Control-Allow-Origin: *
+                    Content-Length: 18100
+                    Content-Type: application/links+json; charset=utf-8
+                    Date: Wed, 08 Dec 2021 04:52:47 GMT
+                    ETag: W/"46b4-...
+Headers           : {[Connection, keep-alive], [Access-Control-Allow-Origin, *], [Content-Length, 18100], [Content-Type, application/links+json; charset=utf-8]...}  
+RawContentLength  : 18100

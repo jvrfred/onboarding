@@ -1,0 +1,8 @@
+curl : { "error": [ { "type": "https://datatracker.ietf.org/doc/html/rfc7807#section-3", "title": "SimpleStorage: [company]", "detail": "Not Found [2258ie4t68jv]", 
+"status": "400", "instance": "http://company-atk.herokuapp.com/2258ie4t68jv", "mamund": { "dt": "2021-12-08T04:50:48.268Z", "app": "bigco-company", "server": 
+"EYC-01" } } ] }
+En línea: 1 Carácter: 1
++ curl https://company-atk.herokuapp.com/2258ie4t68jv
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (System.Net.HttpWebRequest:HttpWebRequest) [Invoke-WebRequest], WebException
+    + FullyQualifiedErrorId : WebCmdletWebResponseException,Microsoft.PowerShell.Commands.InvokeWebRequestCommand

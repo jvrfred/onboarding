@@ -1,0 +1,27 @@
+curl https://activity-atk.herokuapp.com/2dra7wqcyup
+
+
+StatusCode        : 200
+StatusDescription : OK
+Content           :       {
+                              "activity" :
+                              [
+                                  {
+                                      "id" : "2dra7wqcyup"
+                                      ,"activityType" : "email"
+                                      ,"companyId" : "1or2ab05imf"
+                             ...
+RawContent        : HTTP/1.1 200 OK
+                    Connection: keep-alive
+                    Access-Control-Allow-Origin: *
+                    Content-Length: 504
+                    Content-Type: application/json; charset=utf-8
+                    Date: Wed, 08 Dec 2021 04:57:43 GMT
+                    ETag: W/"1f8-L1GryKpXc...
+Forms             : {}
+Headers           : {[Connection, keep-alive], [Access-Control-Allow-Origin, *], [Content-Length, 504], [Content-Type, application/json; charset=utf-8]...}
+Images            : {}
+InputFields       : {}
+Links             : {}
+ParsedHtml        : mshtml.HTMLDocumentClass
+RawContentLength  : 504
